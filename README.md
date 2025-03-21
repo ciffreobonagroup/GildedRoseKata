@@ -66,3 +66,6 @@ Tu peux utiliser l’IA **comme assistant**, mais ce test vise à évaluer **ton
 4. Ton travail sera relu commit par commit, avec attention 👀
 
 Merci 🙌 et amuse-toi bien !
+
+ℹ️ Note : le code est en anglais car c’est une pratique courante dans les projets professionnels.  
+Si tu ne comprends pas certains mots, n’hésite pas à le noter dans ton fichier `NOTES.md`. L’idée est de voir ta logique, pas ton niveau d’anglais.
